@@ -1,0 +1,1 @@
+# Create_and_Add_Microsoft_Entra_ID_To_A_Groupe_Using_AzureCLI
